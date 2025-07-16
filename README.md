@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6FC7E1&height=250&section=header&text=jjaerong_CODE&fontSize=90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6FC7E1&height=250&section=header&text=jjaeroong_CODE&fontSize=90" alt="header" />
 </p>
 
 <!-- 소개 문구 -->
