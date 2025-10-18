@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Sky%20Blue-%236FC7E1?style=flat-square&logoColor=white" />
   <br />
-  <b>하늘색처럼 맑고 꾸준하게 성장하는 개발자, jjaeroong입니다 ☁️</b>
+  <b>꾸준하게 성장하는 개발자, jjaeroong입니다.</b>
 </p>
 
 <!-- GitHub Stats -->
